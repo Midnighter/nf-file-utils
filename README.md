@@ -1,5 +1,7 @@
 # Nextflow File Utilities
 
+**N.B.: This repository is archived and the code has been moved to [nextflow-utility-services](https://github.com/Midnighter/nextflow-utility-services) where you will find a larger collection of useful functions.**
+
 The main contribution of the repository is a [service class](lib/FileTypeQueryService.groovy) with static methods to query files/paths for their type and compression. It is intended to be used within [nextflow](https://www.nextflow.io/) workflows.
 
 ## Usage
